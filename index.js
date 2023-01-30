@@ -12,3 +12,11 @@ if (mq4.toLowerCase() == 'sorry'){
 	prompt('slap, slap')
 }
 // End of Adubee's code
+
+//Roberta added
+
+let mq5 = prompt(`${name} What did I eat when i was pregnant with you? slap`)
+let mq6 = prompt(`${name} You think I have your time eeh ? slap `)
+let mq7 = prompt(`${name} Do you think money grows on trees? slap slap slap `)
+
+// End of Robertas post
