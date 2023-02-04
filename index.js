@@ -22,11 +22,7 @@ let mq7 = prompt(`${name} Do you think money grows on trees? slap slap slap `)
 // End of Robertas post
 
 <<<<<<< HEAD
-//Faisal Added
-let mq8 = propmpt("You've seen you've poured the water ? slap")
-let mq9 = propmpt("So you did not go to fetch the water , eh ? Slap" )
 
-//End of Faisal post
 =======
 //Cathy's addition
 
@@ -48,3 +44,8 @@ let mq11s = prompt(`${name} ? when grow - up an adults are speaking, you must ke
 //End of Aurelia post
  
 >>>>>>> eebd7e140f7cd55efdd84b58fa22b657ee0da9aa
+//Faisal Added
+let mq8 = propmpt("You've seen you've poured the water ? slap")
+let mq9 = propmpt("So you did not go to fetch the water , eh ? Slap" )
+
+//End of Faisal post
