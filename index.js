@@ -20,3 +20,29 @@ let mq6 = prompt(`${name} You think I have your time eeh ? slap `)
 let mq7 = prompt(`${name} Do you think money grows on trees? slap slap slap `)
 
 // End of Robertas post
+
+//Cathy's addition
+function myResponse(){
+	let text;
+	let questions = prompt("Questions your African mother askes you when she wants to beat you.");
+	switch(questions){
+			case "Are you mad?":
+			text = "Wow, thats very true, HAHAHAHAHHAHA";
+			break;
+			case "Am I not talking to you?":
+			text = "If you should try talking, wahala dey for you.";
+			break;
+			case " Should I go and wash the dishes you ate in?":
+			text = "Hahahahahaahaha, A slap is usually on the way depending on the answer you give 😂";
+			break;
+			case "Do you want to beat me? Go ahead go ahead!!":
+			text = "This is so hilarious, you'd get the beatings first 😅";
+			break;
+			default:
+			text = "Interesting!!! I have never heard of that.....Behold our African Mothers, they never disappoint";
+			break;
+	}
+	document.getElementById('display').innerHTML = text;
+}
+
+// end of Cathy's contribution.
