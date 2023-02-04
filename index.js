@@ -41,5 +41,5 @@ let mq11s = prompt(`${name} ? when grow - up an adults are speaking, you must ke
 //End of Aurelia post
 
 //samps add
-let mq8 = prompt("sdgbdfgbndfgbn?")
-let mq9 = prompt("ergsetgertgher")
+let mq8 = prompt("I dont want to eat this food?")
+let mq9 = prompt("why are you always shouting at me?")
