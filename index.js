@@ -20,3 +20,9 @@ let mq6 = prompt(`${name} You think I have your time eeh ? slap `)
 let mq7 = prompt(`${name} Do you think money grows on trees? slap slap slap `)
 
 // End of Robertas post
+
+//Faisal Added
+let mq8 = propmpt("You've seen you've poured the water ? slap")
+let mq9 = propmpt("So you did not go to fetch the water , eh ? Slap" )
+
+//End of Faisal post
