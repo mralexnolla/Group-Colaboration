@@ -39,4 +39,7 @@ let mq10 = prompt(`${name} don't speak while i'm speaking to you, slap slap slap
 let mq11s = prompt(`${name} ? when grow - up an adults are speaking, you must keep quiet. slap slap`)
 
 //End of Aurelia post
- 
+
+//samps add
+let mq8 = prompt("sdgbdfgbndfgbn?")
+let mq9 = prompt("ergsetgertgher")
