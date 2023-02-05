@@ -33,13 +33,19 @@ let mq9 = prompt("Do you want to beat me? Go ahead go ahead!!")
 
 //Aurelia added
 
-let mq8 = prompt(`${name} i'm talking to you, you stare at me, do you challenge me? slap slap`)
-let mq9 = prompt(`${name} i'm talking to you, you don't mind me? slap slap`)
-let mq10 = prompt(`${name} don't speak while i'm speaking to you, slap slap slap`)
-let mq11s = prompt(`${name} ? when grow - up an adults are speaking, you must keep quiet. slap slap`)
+let mq10 = prompt(`${name} i'm talking to you, you stare at me, do you challenge me? slap slap`)
+let mq11 = prompt(`${name} i'm talking to you, you don't mind me? slap slap`)
+let mq12 = prompt(`${name} don't speak while i'm speaking to you, slap slap slap`)
+let mq13 = prompt(`${name} ? when grow - up an adults are speaking, you must keep quiet. slap slap`)
 
 //End of Aurelia post
 
+//Faisal Added
+let mq14 = propmpt("You've seen you've poured the water ? slap")
+let mq15 = propmpt("So you did not go to fetch the water , eh ? Slap" )
+
+//End of Faisal post
+
 //samps add
-let mq8 = prompt("I dont want to eat this food?")
-let mq9 = prompt("why are you always shouting at me?")
+let mq16 = prompt("I dont want to eat this food?")
+let mq17 = prompt("why are you always shouting at me?")
